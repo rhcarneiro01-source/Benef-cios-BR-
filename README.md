@@ -9,8 +9,6 @@
 
 App mobile (React Native + Expo) que mostra a quais **descontos sociais de luz, água, gás e internet** uma família tem direito no Brasil, **simula a economia** nas contas e explica **como pedir** cada benefício.
 
-**👉 [Teste no navegador](https://rhcarneiro01-source.github.io/beneficios-br/)** — sem instalar nada.
-
 | Início | Sua família | Resultado | Benefício | Regras |
 |---|---|---|---|---|
 | ![Início](docs/prints/1-inicio.png) | ![Família](docs/prints/2-familia.png) | ![Resultado](docs/prints/4-resultado.png) | ![Energia](docs/prints/5-energia.png) | ![Regras](docs/prints/7-regras.png) |
