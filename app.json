@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Benefícios BR",
+    "slug": "beneficios-br",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "br.com.beneficiosbr.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1748A5",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "package": "br.com.beneficiosbr.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "name": "Benefícios BR",
+      "themeColor": "#1748A5"
+    },
+    "description": "Verifique a quais descontos sociais de luz, água, gás e internet sua família tem direito e simule a economia.",
+    "backgroundColor": "#F2F5FA",
+    "experiments": {
+      "baseUrl": "/beneficios-br"
+    }
+  }
+}
